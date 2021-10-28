@@ -5,4 +5,4 @@ function hoopCount (n) {
       return "Great, now move on to tricks";
     }
      //your code goes here    
-  }
+}
